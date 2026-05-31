@@ -195,15 +195,15 @@ The goal is to build a strong foundation for:
 Current Status:
 
 ```text
-TypeScript Beginner → Intermediate → Advanced → Production Projects
+TypeScript Beginner
 ```
 
 Progress Tracker:
 
-- Fundamentals: ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-- Intermediate: ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-- Advanced: ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-- Projects: ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+- Fundamentals:
+- Intermediate:
+- Advanced:
+- Projects:
 
 ---
 
